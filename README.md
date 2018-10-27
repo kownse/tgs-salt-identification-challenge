@@ -48,5 +48,5 @@ But I didn't have time to try it out.
 
 ## Conclution 
 
-There is always new skills to learn from each kaggle competitions and the masters in the platform like Heng CherKeng.
+There are always new skills to learn from each kaggle competitions and the masters in the platform like Heng CherKeng.
 Keep fighting!
