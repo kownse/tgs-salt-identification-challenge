@@ -1,4 +1,4 @@
-# Silver(79th) solution for [tgs-salt-identification-challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge)
+# Silver(top 3%) solution for [tgs-salt-identification-challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge)
 
 I've tried many methods in this competition but mainly focus on seresnext-unet architecture.
 In the src folder, there are bunch of notebooks using both keras and pytorch to implement the network.
