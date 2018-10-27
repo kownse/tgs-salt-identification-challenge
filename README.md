@@ -40,11 +40,14 @@ I traind 5 folds for 4 rounds and get the best score before the competition ends
 ## Just before it ends
 
 The kaggle grandmaster Heng CherKeng explained why the label mask is whierd just hours before this competition
-ends:
-![how the mask actually made](https://storage.googleapis.com/kaggle-forum-message-attachments/inbox/113660/8f78a30ee593a81693eb30ac0f129022/the%20real%20problem.png "how the mask actually made")
+ends.
 It is neccesary to try a Mosaics puzzle solving to really uncover this 'secret' and that's what I totally missed.
 It says if combine one more channel to predict the edge of the salt into the previous model will bring the score in to 30th.
 But I didn't have time to try it out.
+
+![how the mask actually made](https://storage.googleapis.com/kaggle-forum-message-attachments/inbox/113660/8f78a30ee593a81693eb30ac0f129022/the%20real%20problem.png "how the mask actually made")
+
+
 
 ## Conclution 
 
